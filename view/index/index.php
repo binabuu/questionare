@@ -168,44 +168,154 @@ include 'view/head.php';
 </tr>
 <tr>
   <td><label>Digital presence</label></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="digital" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="digital" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="digital" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="digital" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="digital" value="below 30" ></td>
 </tr>
 <tr>
   <td>Interaction</td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="interaction" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="interaction" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="interaction" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="interaction" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="interaction" value="below 30" ></td>
 </tr>
 <tr>
   <td>Transaction</td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="transaction" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="transaction" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transaction" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transaction" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transaction" value="below 30" ></td>
 </tr>
 
 <tr>
   <td>Transformation</td>
- <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
-  <td><input class="w3-radio" type="radio" name="gender" value="below 30" checked></td>
+ <td><input class="w3-radio" type="radio" name="transformation" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="transformation" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation" value="below 30" ></td>
 </tr>
 
 </table>
 
+</p>
+
+<label class="w3-text-teal"><b>
+2.1.2 Technology infrastructure that supports electronic linkage of firm with external business 
+partners
+
+ </b></label></br>
+
+<div class = "w3-container">
+<div class="w3-responsive">
+<table class="w3-table-all">
+<tr>
+  <td></td>
+  <td>Not all important</td>
+  <td>Not Important</td>
+  <td>Nutral</td>
+  <td>Important</td>
+  <td>Very important</td>
+
+</tr>
+<tr>
+  <td><label>Digital presence</label></td>
+  <td><input class="w3-radio" type="radio" name="digital1" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="digital1" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="digital1" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="digital1" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="digital1" value="below 30" ></td>
+</tr>
+<tr>
+  <td>Interaction</td>
+  <td><input class="w3-radio" type="radio" name="interaction1" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="interaction1" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="interaction1" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="interaction1" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="interaction1" value="below 30" ></td>
+</tr>
+<tr>
+  <td>Transaction</td>
+  <td><input class="w3-radio" type="radio" name="transaction1" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="transaction1" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transaction1" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transaction1" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transaction1" value="below 30" ></td>
+</tr>
+
+<tr>
+  <td>Transformation</td>
+ <td><input class="w3-radio" type="radio" name="transformation1" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="transformation1" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation1" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation1" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation1" value="below 30" ></td>
+</tr>
+
+</table>
+
+</p>
+
+<label class="w3-text-teal"><b>
+2.1.3 Technology infrastructure that supports business operations
+ </b></label></br>
+
+<div class = "w3-container">
+<div class="w3-responsive">
+<table class="w3-table-all">
+<tr>
+  <td></td>
+  <td>Not all important</td>
+  <td>Not Important</td>
+  <td>Nutral</td>
+  <td>Important</td>
+  <td>Very important</td>
+
+</tr>
+<tr>
+  <td><label>Digital presence</label></td>
+  <td><input class="w3-radio" type="radio" name="digital2" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="digital2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="digital2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="digital2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="digital2" value="below 30" ></td>
+</tr>
+<tr>
+  <td>Interaction</td>
+  <td><input class="w3-radio" type="radio" name="interaction2" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="interaction2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="interaction2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="interaction2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="interaction2" value="below 30" ></td>
+</tr>
+<tr>
+  <td>Transaction</td>
+  <td><input class="w3-radio" type="radio" name="transaction2" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="transaction2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transaction2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transaction2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transaction2" value="below 30" ></td>
+</tr>
+
+<tr>
+  <td>Transformation</td>
+ <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+</tr>
+
+</table>
+
+
+
 </div>
 </form>
-
-
 </div>
 
 </div>
