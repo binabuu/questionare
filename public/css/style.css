@@ -1,0 +1,21 @@
+#left_panel{
+	margin-top:5px;
+}
+
+#name{
+	text-shadow:1px 1px 0 #444;
+	margin:0px;
+	font-size:22px;
+
+}
+#logo{
+	width:110px;
+	height:100px;
+}
+#topBody{
+	margin-top:32px;
+	padding-bottom:40px;
+}
+
+
+
