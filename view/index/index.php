@@ -201,9 +201,13 @@ include 'view/head.php';
 </tr>
 
 </table>
+</div>
+</div>
+</div>
 
 </p>
 
+<div class = "w3-container">
 <label class="w3-text-teal"><b>
 2.1.2 Technology infrastructure that supports electronic linkage of firm with external business 
 partners
@@ -257,9 +261,13 @@ partners
 </tr>
 
 </table>
+</div>
+</div>
+</di>
 
 </p>
 
+<div class = "w3-container">
 <label class="w3-text-teal"><b>
 2.1.3 Technology infrastructure that supports business operations
  </b></label></br>
@@ -312,10 +320,113 @@ partners
 
 </table>
 
+</div>
+</div>
+</div>
 
+
+<div class="w3-container">
+
+<h5>Section 2.1.  Please identify the extent to which the following were considered important in your 
+  organisation’s adoption of e-government stages </h5>
+<div class="w3-responsive">
+<table class="w3-table-all">
+<tr>
+  <th></th>
+  <th>Digital presence</th>
+  <th>Interaction</th>
+  <th>Transaction</th>
+  <th>Transformation</th>
+</tr>
+
+<tr>
+  <td>2.1.1   Technology infrastructure that supports electronic linkage of business units</td>
+  <td>
+    <table>
+    <tr>
+  <td>Not all important</td>
+  <td>Not Important</td>
+  <td>Nutral</td>
+  <td>Important</td>
+  <td>Very important</td>
+
+</tr>
+<tr>
+<td><input class="w3-radio" type="radio" name="transformation2" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+</tr>
+</table>
+  </td>
+  <td>
+  <table>
+    <tr>
+  <td>Not all important</td>
+  <td>Not Important</td>
+  <td>Nutral</td>
+  <td>Important</td>
+  <td>Very important</td>
+
+</tr>
+<tr>
+<td><input class="w3-radio" type="radio" name="transformation2" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+</tr>
+</table>
+  </td>
+  <td>
+  <table>
+    <tr>
+  <td>Not all important</td>
+  <td>Not Important</td>
+  <td>Nutral</td>
+  <td>Important</td>
+  <td>Very important</td>
+
+</tr>
+<tr>
+<td><input class="w3-radio" type="radio" name="transformation2" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+</tr>
+</table>
+  </td>
+  <td>
+  <table>
+    <tr>
+  <td>Not all important</td>
+  <td>Not Important</td>
+  <td>Nutral</td>
+  <td>Important</td>
+  <td>Very important</td>
+
+</tr>
+<tr>
+<td><input class="w3-radio" type="radio" name="transformation2" value="below 30" checked></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+  <td><input class="w3-radio" type="radio" name="transformation2" value="below 30" ></td>
+</tr>
+</table>
+  </td>
+</tr>
+
+</table>
+</div>
 
 </div>
+
+
 </form>
+
 </div>
 
 </div>
